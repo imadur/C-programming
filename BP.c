@@ -7,10 +7,10 @@ int main(){
     scanf("%d",&b);
     if(a>=b)
     {
-        printf("1st number is the Biggest");
+        printf("The Biggest Number is: %d\n",a);
     }
     else{
-        printf("2nd number is the Biggest");
+        printf("The Biggest Number is: %d\n",b);
     }
     return 0;
 
